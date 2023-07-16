@@ -8,7 +8,6 @@
 
 * 🌍  Проживаю в Москве, Россия
 * 🖥️  Моё портфолио: [нажми:](http://maxbryansky.github.io/Portfolio-Bryansky/)
-* ✉️  Связаться можно со мной [bryanskymaks1992@gmail.com](mailto:bryanskymaks1992@gmail.com)
 
 ### Skills
 
